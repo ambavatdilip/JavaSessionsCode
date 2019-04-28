@@ -54,6 +54,9 @@ public class DataTypes {
 		float v = (float) 12.33;
 		System.out.println(v);
 		
+		float z =(float) 14.55;
+		System.out.println(z);
+		
 	}
 
 }
